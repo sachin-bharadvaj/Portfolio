@@ -23,9 +23,9 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
  Clone the repository:
    sh
-   git clone https://github.com/sachin-bharadvaj/my-portfolio.git
+   git clone https://github.com/sachin-bharadvaj/portfolio.git
    
  Navigate to Project Folder:
    sh
-   cd my-portfolio
+   cd portfolio
    
