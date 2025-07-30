@@ -17,6 +17,8 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 📸 Preview
 
+[Go to my Website ->](https://sachinbharadvaj-portfolio.netlify.app/)
+
 ![Portfolio Preview](screenst.png)
 
 ## 🚀 Getting Started
