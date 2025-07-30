@@ -17,7 +17,20 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 📸 Preview
 
-[Go to my Website ->](https://sachinbharadvaj-portfolio.netlify.app/)
+<a href="https://sachinbharadvaj-portfolio.netlify.app/" target="_blank" style="
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #24292e;
+  background-color: #f6f8fa;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.2s, border-color 0.2s;
+">
+  🚀 Visit My Website
+</a>
 
 ![Portfolio Preview](screenst.png)
 
